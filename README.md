@@ -11,6 +11,8 @@ So, what is really surprising about this is that i used animated assets, which m
     
     - [@Rive Package Link](https://pub.dev/packages/rive);
     
+    - [Rive Package Link](https://pub.dev/packages/rive/)
+    
     - [@Animations Package Link](https://pub.dev/packages/animations);
 
 ## Rive Website
