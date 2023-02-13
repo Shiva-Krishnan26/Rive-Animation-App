@@ -6,11 +6,11 @@ So, what is really surprising about this is that i used animated assets, which m
 
 ## Packages
 
-    -> [Rive Package Link](https://pub.dev/packages/rive)
+    -> <a href="https://pub.dev/packages/rive">Rive Package Link</a>
     
-    -> [Animations Package Link](https://pub.dev/packages/animations)
+    -> <a href="https://pub.dev/packages/animations">Animations Package Link</a>
 
 ## Rive Website
 
-    -> [Link](https://rive.app)
+    -> <a href="https://rive.app">Rive Website</a>
     -> For more rive assets and icons you can check on this link.
