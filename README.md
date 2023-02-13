@@ -1,16 +1,10 @@
-# rive_animation
+# Animated App with Rive and Flutter
 
-A new Flutter project.
+This is a flutter app, where it have a stylish Bottom navigation bar and also a good looking Side menu Bar. This app also combined with rive Animation, which it comes with lot of options to design our app with animative way.i have animated icons that really make your app design stand out more.
 
-## Getting Started
+So, what is really surprising about this is that i used animated assets, which means that these icon animations are not made in code. Instead, they're made in Rive which is a really cool animation tool that lets you create animated assets for your website, iOS, Android, and most importantly Flutter.
 
-This project is a starting point for a Flutter application.
+## Packages
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    -> rive <a href="https://pub.dev/packages/rive">Link</a>
+    -> animations <a href="https://pub.dev/packages/animations">Link</a>
